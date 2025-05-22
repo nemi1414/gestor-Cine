@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1747700027 source:c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\main.cpp
+	<iostream>
+	"funcionesCinemarg.h"
+
+1747592442 c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\iniciar.h
+
+1747856670 source:c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1747856563 c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\usuario.h
+
+1747698355 source:c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\iniciar.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+	"iniciar.h"
+
+1747704200 c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\funcionescinemarg.h
+
+1747704202 source:c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\funcionescinemarg.cpp
+	<iostream>
+	<cstring>
+	"funcionesCinemarg.h"
+	"Usuario.h"
+	"Administrador.h"
+	"Cliente.h"
+
+1747876785 source:c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\administrador.cpp
+	<iostream>
+	<cstring>
+	"Administrador.h"
+	"Cliente.h"
+	"Usuario.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1747851058 c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\administrador.h
+	"Usuario.h"
+	"Cliente.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1747876747 source:c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Usuario.h"
+	"Pelicula.h"
+	"Entrada.h"
+
+1747845057 c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\cliente.h
+	"Usuario.h"
+
+1747705788 source:c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1747705753 c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\fecha.h
+
+1747876704 source:c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1747876704 c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\pelicula.h
+	"Fecha.h"
+
+1747876804 source:c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1747878604 c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\sala.h
+
+1747773439 source:c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\entrada.cpp
+	<iostream>
+	<cstring>
+	"Entrada.h"
+	"Fecha.h"
+
+1747771120 c:\users\juani\onedrive\documentos\archivos utn\materias\programación 2 (2025)\tpi\gestorcine\entrada.h
+	"Fecha.h"
+
