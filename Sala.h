@@ -28,7 +28,7 @@ public:
     void inicializarButacas(); // pone todas en true
     void mostrarButacasDisponibles();
     void cargarSala();
-    void mostrarSala();
+    void mostrarSala();///PROBANDO GIT BUSH
 
     void imprimirTipoSala();
 };
